@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LIST OF PUBLICATION]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.jpeg</url><title>LIST OF PUBLICATION</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 09 Jan 2026 04:15:57 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 09 Jan 2026 04:15:55 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Index]]></title><description><![CDATA[提示 当单一文件较大或文件数量较多时，加载页面将需要更多时间。如果点击页面中的各项图标时不起作用，请稍等一小会再试
+由于 GitHub 的设置问题，此页面的文件名在左侧的文件列表中显示为 Index 点击右侧边栏右上角的 太阳/月亮 按钮，可以切换页面的亮暗模式
+在左侧边栏顶部的 搜索栏 中输入关键词，可以对所有文件进行全文搜索 本地 HTML 文件尚未开启 搜索栏 功能 经豆芽测试，搜索栏 对中文的支持不够好，不建议搜索中文
+点击左侧边栏右上角和右侧边栏左上角的 隐藏/显示边栏 按钮，可以收起或展开左右边栏 将鼠标悬停在两侧边栏的边线上，出现双向箭头后向左/右拖动可以调整边栏宽度
+调整边栏宽度后，将鼠标悬停在两侧边栏的边线上，出现双向箭头后双击可以恢复默认栏宽 左侧边栏收起后，边栏图标也会被隐藏。此时只需点击页面左上角的空白区域，即可再次展开左侧边栏（右侧边栏不存在这个 Bug）
+搜索栏 下方是一个可交互的文件双向链接 关系图谱，点击图谱中的节点会直接跳转到对应的文件 点击 关系图谱 右上角的 箭头 或图谱外的任意空白区域，可以放大或缩小查看整个图谱
+点击 关系图谱 的圆形节点进行拖动，可以调整各个节点的位置 关系图谱 建议放大查看，因为一般来说文件标题都比较长，显示在小图中会全部堆叠到一起，导致文字无法看清关系图谱 功能的 Bug 在某些电脑上，图谱的节点和链接可能无法正常显示，原因未知
+偶尔图谱的节点会疯狂地到处跳动，此时在左侧文件列表中点选其他笔记切换一下页面即可（有时切换也没用，那就重新刷新一下页面吧 🥲） 关系图谱 下方是 文件导航 ，可以通过点击文件名来切换当前展示的文件 点击 文件导航 顶部 LIST OF PUBLICATION 右侧的上下双向 箭头，可以将文件列表全部展开或全部折叠
+在有文件夹的情况下，点击文件夹标题前的 箭头，可以展开或折叠下属的子文件（夹）列表 右侧边栏的主体部分是文件的 大纲目录 ，可以通过点击章节标题来跳转到相应的内容 点击 大纲目录 顶部 TABLE OF CONTENTS 右侧的上下双向 箭头，可以将文件大纲全部展开或全部折叠
+点击章节标题前的 箭头，可以展开或折叠下属的章节标题列表 较长的文件（夹）名称或标题名称无法在侧边栏中完整显示，此时需要手动调整边栏宽度，调整方式见上文
+如果有其他文件链接到正在打开的文件，右侧边栏底部会显示所有 链接当前页面的其他笔记 列表 <a data-href="✧ 如何掌控你的自由时间_demo" href="d-发布/✧-如何掌控你的自由时间_demo.html" class="internal-link" target="_self" rel="noopener nofollow">✧ 如何掌控你的自由时间_demo</a>4
+<br><a data-href="✧ 如何根治你的拖延症_demo" href="d-发布/✧-如何根治你的拖延症_demo.html" class="internal-link" target="_self" rel="noopener nofollow">✧ 如何根治你的拖延症_demo</a>4
+<br><a data-href="✧ Stop Procrastinating With Note-Taking Apps_demo" href="d-发布/✧-stop-procrastinating-with-note-taking-apps_demo.html" class="internal-link" target="_self" rel="noopener nofollow">✧ Stop Procrastinating With Note-Taking Apps_demo</a>3
+<br><a data-href="✧ 子弹笔记（Bullet Journal）是什么_demo" href="d-发布/✧-子弹笔记（bullet-journal）是什么_demo.html" class="internal-link" target="_self" rel="noopener nofollow">✧ 子弹笔记（Bullet Journal）是什么_demo</a>3
+]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><pubDate>Fri, 09 Jan 2026 04:15:40 GMT</pubDate></item><item><title><![CDATA[✧ Stop Procrastinating With Note-Taking Apps_demo]]></title><description><![CDATA[
+很多人并不知道什么是“个人知识管理”（Personal Knowledge Management），照样可以很好地完成工作，因为他们没有拖延，没有为了让事情变得完美而进行各种优化
+“个人知识管理”这个词在过去几年中被夸大了，对于很多人来说变成了另一种复杂的拖延方式 Obsidian, Roam Research, Logseq, Notion……
+明显的拖延很容易被注意到，我们会为此感到悔恨
+复杂的拖延让我们觉得自己很聪明、自己正在进步，但事实上并没有 复杂式拖延的表现 制定超过必要限度的、事无巨细的复杂计划
+没完没了地研究，阅读超出必要数目的书籍
+与人谈论想法和计划，但不采取任何实际行动
+沉迷“个人知识管理”，挤占真正的工作时间 创建复杂笔记系统会让自己感觉良好，但感觉良好并不代表工作完成得好或在做真正有用的工作
+个人知识管理系统在追求某种虚幻，就像滚轮中的仓鼠不断追求永远达不到的东西（完美） 必须记住，这个世界上没有任何完美的系统。做好一件事总是伴随着不确定、挫折、困惑和混乱，尝试消除这些因素是徒劳和耗时的——人必须学会在混乱中取得进展 Sascha（<a data-tooltip-position="top" aria-label="https://zettelkasten.de" rel="noopener nofollow" class="external-link is-unresolved" href="https://zettelkasten.de" target="_self">Zettelkasten官网</a>） There's a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we're inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge. 我们都有一种收集有用信息的倾向，并为此感觉良好。收集本身就是一种奖励。作为知识的搬运工，我们倾向于寻找下一个突破性思想，来获得一种脑力上的刺激。我们把可能有意思的书籍和文章堆成小山，把半个互联网都标上书签，只为了给自己一种处于“科技前沿”的感觉。 “收藏家谬误”（Collector's Fallacy） 收集笔记、书签、PDF、高亮文本并不能提高效率+产出富有成效的结果，处于“科技前沿”的感觉毫无意义，除非用这些笔记信息以某种方式进行输出（书籍、文章、视频） 个人知识管理系统可以帮助我们提高效率，更好地完成工作，但它不是工作本身，也不是工作的必要前提 将个人知识管理视为工作，就默认了它可以无限制占用日程安排，方便自己拖延并自然地消除所有愧疚 我们会无意识地把所有时间花在理论、思索和计划上，无暇进行实践 避免将个人知识管理视为工作，就有机会限制构建和调试系统的时间，用于处理真正的工作 有些事情只能通过实践来学习：撰写文章的人，会在写作过程中获得新的领悟；处于执行阶段的创业者，会偶遇规划阶段无法想到的方案和灵感 the optimization-procrastination trap 不断换用新工具、尝试新 APP 和新功能，认为这样可以从根本上解决自己的一切问题
+经常以超出必要限度或收益递减拐点的频率优化和调整正在应用的知识系统 个人知识管理系统只需够用即可，没必要追求完美 观看有关以某种特定的、更复杂的方式记笔记的视频教程 the "perfect tool" trap
+以上两个陷阱的本质：盲目追求虚幻的满足感 坚持使用同一种工具至少6个月，除非有强有力的论据支持自己换工具 people have done great things and great work without these complex systems（比如过去在监狱中写书的作家） 更多相信自己的大脑（放轻松） 第二大脑不能代替自己真正的大脑
+许多个人知识管理成瘾者会记下遇到的所有信息，却不为实际思考留下任何空间
+在获取信息和思考问题时，好的想法与洞察力都会自然而然地出现（但不会在整理笔记系统时出现） 尝试基于某个项目做笔记 选择一个项目（书、产品、视频……），围绕项目做笔记，链接相关的概念、创意和想法 无意识过滤大量无关信息（会使笔记系统变得混乱）
+或多或少知道自己在寻找什么或需要记下什么，可以放心忽略其余部分，害怕错过信息的感觉消失
+由于自身在努力取得切实成果，拖延的时间变少 优先提升工作能力和产出 大多数笔记系统都有很好的搜索功能，不需构建过多结构就能精准找到特定信息
+先开始工作之后，再去考虑是否需要调整和优化工作流程以及笔记系统
+评判知识管理/笔记系统的标准：是否有助于提升工作效率（包括工作的数量和质量） 给自己设定一些可行的限制 “每天最多花30分钟在改进笔记系统上”
+建立获取信息和记录笔记的流程，这样就不会分心然后开始拖延 将获取信息和处理信息划分为两个独立的步骤 相关资料 Contents ]]></description><link>d-发布/✧-stop-procrastinating-with-note-taking-apps_demo.html</link><guid isPermaLink="false">D-发布/✧ Stop Procrastinating With Note-Taking Apps_demo.md</guid><pubDate>Fri, 09 Jan 2026 03:32:54 GMT</pubDate></item><item><title><![CDATA[✧ 如何根治你的拖延症_demo]]></title><description><![CDATA[
+非拖延者与拖延者的大脑差异 non-procrastinator: Rational Decision-Maker
+procrastinator： Rational Decision-Maker：设想未来、从大局出发、制定长期计划……确保我们做那些make sense/harder and less pleasant things
+Instant Gratification Monkey：完全活在当下，不关心过去和未来，只关心easy and fun easy and fun 和 make sense 有重合的部分
+The Dark Playground: easy and fun 与 make sense 不重合的部分，休闲娱乐活动在不恰当的时间出现，会导致 guilt, dread, anxiety, self-hatred 等负面情绪 The Panic Monster：在临近截止日期、有当众出丑的危险、职业灾难或其他恐怖情况时才会出现，猴子唯一害怕的东西 two kinds of procrastination: 有/无 deadline，后者没有 the Panic Monster 现身，拖延的后果没有限制 后者是大量长期不快乐、内疚感的来源
+拖延者感受到自己是自身生活的旁观者 解决方案：Life Calendar（1个格子代表1周） 必须时刻意识到“Instant Gratification Monkey”的存在 相关资料 Contents ]]></description><link>d-发布/✧-如何根治你的拖延症_demo.html</link><guid isPermaLink="false">D-发布/✧ 如何根治你的拖延症_demo.md</guid><pubDate>Fri, 09 Jan 2026 03:32:49 GMT</pubDate></item><item><title><![CDATA[✧ 如何掌控你的自由时间_demo]]></title><description><![CDATA[
+一种无效的方式：节约零碎时间，add it up
+We don't build the lives we want by saving time, we build the lives we want, and then time saves itself.
+Time is highly elastic, we cannot make more time, but time will stretch to accommodate what we choose to put into it.
+KEY to time management: treating our priorities as the equivalent of that broken water heater
+I don't have time = It's not a priority——Time is a choice
+We have the power to fill our lives with the things that deserve to be there.
+Step： 分析重要性，两个策略 Annual performance review（年度绩效评估）：假设现在是明年年底，what 3-5 things would make it a great year for you professionally?
+Family holiday letter（家庭假期贺信）：假设现在是明年年底，what 3-5 things would make it a great year for you personally?
+together：6-10 goals we can work on the next year break these down into doable steps, putting them into our schedules first：在周一开始前（周五下午—"low opportunity cost" time）就想好本周的计划 三栏优先顺序表：career/relationships/self，每一栏写两到三项，然后纵览接下来的整个星期（168 hours），看可以把这些事安排在什么时候 looking at the whole of one's time and seeing where the good stuff can go
+相关资料 Contents ]]></description><link>d-发布/✧-如何掌控你的自由时间_demo.html</link><guid isPermaLink="false">D-发布/✧ 如何掌控你的自由时间_demo.md</guid><pubDate>Fri, 09 Jan 2026 03:31:37 GMT</pubDate></item><item><title><![CDATA[✧ 子弹笔记（Bullet Journal）是什么_demo]]></title><description><![CDATA[
+子弹笔记：一种快速记录的笔记方法，由 Ryder Carroll 提出 子弹：构成整个笔记的每一条内容 所有文字都要求尽量简洁
+每条记录之前都用一个符号来标注属性 一般在开始一本新的笔记或年初 Setup 时，需专门留出版面记录各种符号的意义 记录的内容分为三类（<a data-tooltip-position="top" aria-label="https://www.bilibili.com/video/BV1KJ411N7z4/?t=122.491909#t=02:02.49" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.bilibili.com/video/BV1KJ411N7z4/?t=122.491909#t=02:02.49" target="_self">02:02</a> ） Task：待完成事项，用实心圆点表示 任务已完成：在圆点上画叉
+任务已取消：在任务上画删除线
+任务已迁移：将圆点改成左箭头或右箭头——记得要将任务抄写到迁移后的相应位置 左箭头：任务将持续数月，或安排到几个月之后完成，需誊写到Future Log
+右箭头：安排在当月之内完成的短期任务 任务很重要：在任务前标记“*”（重要性和优先级） Event：发生的事件，用空心圆圈表示
+Note：描述/想法/评论/注解，用短横线表示 注释可以为任务和事件增添细节 <br>记录的框架分为五个模块（<a data-tooltip-position="top" aria-label="https://www.bilibili.com/video/BV1KJ411N7z4/?t=281.751426#t=04:41.75" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.bilibili.com/video/BV1KJ411N7z4/?t=281.751426#t=04:41.75" target="_self">04:41</a> ） Index：一般出现在本子的前几页，可以根据内容需要决定是否保留此模块 Travel Plan
+Study Plan
+Bucket List
+Birthday Wheel Future Log：未来6个月到1年已知会发生的事件 已经规划但不确定具体完成时间的项目
+从日计划中的未完成部分迁移过来的项目
+预期完成时间较长，一时无法详细规划，但有明确 Deadline 的项目 Monthly Log：版面通常以日历形式出现 预计将在本月完成的任务
+简单记录本月发生的事件（固定/不固定）
+从日计划中的未完成部分迁移过来的项目 Daily Log：可以提前 Setup，也可以随用随写 早晨/晚间规划当天的 To-do List，回顾前一天所有任务的完成情况，判断未完成的任务应当今天做完/推迟/取消 Collections：常用于组织购物清单或正在进行的项目/课程 在左边的空白页面写上主题，然后将所有相关任务+注释都迁移到右边的空白页面，并在 Index 中标注页码 月底复盘：确保所有未完成任务都被迁移 检查上月笔记：找出未完成的项目 思考：未完成的原因/是否值得继续完成 没必要完成，就把整个条目划掉，表示任务取消
+决定继续完成，就把任务抄写到月计划中，然后将上月对应记录的符号从实心圆点改为右箭头 检查 Future Log：把相关条目迁移到月计划上，然后将 Future Log 相关条目的属性改为右箭头
+检查 Birthday Wheel：按月份列出朋友生日的版面，把当月朋友的生日信息搬到月计划中
+在月计划中写下每月固定的项目 高效率：可以通过回顾之前的记录，分析如何摆脱分散注意力的事情，有助于将时间精力投入到真正重要的工作上去
+灵活性：掌握基本逻辑规则后，其他所有规则都由自己制定
+相关资料 <br><a data-tooltip-position="top" aria-label="https://www.bilibili.com/video/BV1ts41197or/?p=2&amp;share_source=copy_web" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.bilibili.com/video/BV1ts41197or/?p=2&amp;share_source=copy_web" target="_self">How to Bullet Journal</a> ]]></description><link>d-发布/✧-子弹笔记（bullet-journal）是什么_demo.html</link><guid isPermaLink="false">D-发布/✧ 子弹笔记（Bullet Journal）是什么_demo.md</guid><pubDate>Fri, 09 Jan 2026 03:31:16 GMT</pubDate></item></channel></rss>
