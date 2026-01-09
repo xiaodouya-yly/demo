@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[已发布的笔记]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>已发布的笔记</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 09 Jan 2026 02:11:46 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 09 Jan 2026 02:11:43 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Index]]></title><description><![CDATA[Info 当单一文件较大或文件数量较多时，加载页面将需要更多时间。如果点击页面中的各项图标时不起作用，请稍等一小会再试
+由于 GitHub 的设置问题，此页面的文件名在左侧的文件列表中显示为 Index 点击右侧边栏右上角的 太阳/月亮 按钮，可以切换页面的亮暗模式
+在左侧边栏顶部的 搜索栏 中输入关键词，可以对所有文件进行全文搜索 本地 HTML 文件尚未开启 搜索栏 功能 经豆芽测试，搜索栏 对中文的支持不够好，不建议搜索中文
+点击左侧边栏右上角和右侧边栏左上角的 隐藏/显示边栏 按钮，可以收起或展开左右边栏 将鼠标悬停在两侧边栏的边线上，出现双向箭头后向左/右拖动可以调整边栏宽度
+调整边栏宽度后，将鼠标悬停在两侧边栏的边线上，出现双向箭头后双击可以恢复默认栏宽 左侧边栏收起后，边栏图标也会被隐藏。此时只需点击页面左上角的空白区域，即可再次展开左侧边栏（右侧边栏不存在这个 bug）
+搜索栏 下方是一个可交互的文件双向链接 关系图谱，点击图谱中的节点会直接跳转到对应的文件 点击 关系图谱 右上角的 箭头，可以放大或缩小查看整个图谱 关系图谱 功能在某些电脑上可能无法正常使用（不显示图谱节点和链接，原因未知）
+关系图谱 下方是 文件导航 ，可以通过点击文件名来切换当前展示的文件 点击 文件导航 顶部 已发布的笔记 右侧的上下双向 箭头，可以将文件列表全部展开或全部折叠
+在有文件夹的情况下，点击文件夹标题前的 箭头，可以展开或折叠下属的子文件（夹）列表 右侧边栏的主体部分是文件的 大纲目录 ，可以通过点击章节标题来跳转到相应的内容 点击 大纲目录 顶部 TABLE OF CONTENTS 右侧的上下双向 箭头，可以将文件大纲全部展开或全部折叠
+点击章节标题前的 箭头，可以展开或折叠下属的章节标题列表 如果有其他文件链接到正在打开的文件，右侧边栏底部会显示所有 链接当前页面的其他笔记 列表 <a data-href="✧ Markdown 语法文档_demo" href="D-发布/✧ Markdown 语法文档_demo.html" class="internal-link" target="_self" rel="noopener nofollow">✧ Markdown 语法文档_demo</a>
+]]></description><link>Index.html</link><guid isPermaLink="false">Index.md</guid><pubDate>Fri, 09 Jan 2026 02:07:19 GMT</pubDate></item><item><title><![CDATA[✧ Stop Procrastinating With Note-Taking Apps_demo]]></title><description><![CDATA[
+很多人并不知道什么是“个人知识管理”（Personal Knowledge Management），照样可以很好地完成工作，因为他们没有拖延，没有为了让事情变得完美而进行各种优化
+“个人知识管理”这个词在过去几年中被夸大了，对于很多人来说变成了另一种复杂的拖延方式 Obsidian, Roam Research, Logseq, Notion……
+明显的拖延很容易被注意到，我们会为此感到悔恨
+复杂的拖延让我们觉得自己很聪明、自己正在进步，但事实上并没有 复杂式拖延的表现 制定超过必要限度的、事无巨细的复杂计划
+没完没了地研究，阅读超出必要数目的书籍
+与人谈论想法和计划，但不采取任何实际行动
+沉迷“个人知识管理”，挤占真正的工作时间 创建复杂笔记系统会让自己感觉良好，但感觉良好并不代表工作完成得好或在做真正有用的工作
+个人知识管理系统在追求某种虚幻，就像滚轮中的仓鼠不断追求永远达不到的东西（完美） 必须记住，这个世界上没有任何完美的系统。做好一件事总是伴随着不确定、挫折、困惑和混乱，尝试消除这些因素是徒劳和耗时的——人必须学会在混乱中取得进展 Sascha（<a data-tooltip-position="top" aria-label="https://zettelkasten.de" rel="noopener nofollow" class="external-link is-unresolved" href="https://zettelkasten.de" target="_self">Zettelkasten官网</a>） There's a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we're inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge. 我们都有一种收集有用信息的倾向，并为此感觉良好。收集本身就是一种奖励。作为知识的搬运工，我们倾向于寻找下一个突破性思想，来获得一种脑力上的刺激。我们把可能有意思的书籍和文章堆成小山，把半个互联网都标上书签，只为了给自己一种处于“科技前沿”的感觉。 “收藏家谬误”（Collector's Fallacy） 收集笔记、书签、PDF、高亮文本并不能提高效率+产出富有成效的结果，处于“科技前沿”的感觉毫无意义，除非用这些笔记信息以某种方式进行输出（书籍、文章、视频） 个人知识管理系统可以帮助我们提高效率，更好地完成工作，但它不是工作本身，也不是工作的必要前提 将个人知识管理视为工作，就默认了它可以无限制占用日程安排，方便自己拖延并自然地消除所有愧疚 我们会无意识地把所有时间花在理论、思索和计划上，无暇进行实践 避免将个人知识管理视为工作，就有机会限制构建和调试系统的时间，用于处理真正的工作 有些事情只能通过实践来学习：撰写文章的人，会在写作过程中获得新的领悟；处于执行阶段的创业者，会偶遇规划阶段无法想到的方案和灵感 the optimization-procrastination trap 不断换用新工具、尝试新 APP 和新功能，认为这样可以从根本上解决自己的一切问题
+经常以超出必要限度或收益递减拐点的频率优化和调整正在应用的知识系统 个人知识管理系统只需够用即可，没必要追求完美 观看有关以某种特定的、更复杂的方式记笔记的视频教程 the "perfect tool" trap
+以上两个陷阱的本质：盲目追求虚幻的满足感 坚持使用同一种工具至少6个月，除非有强有力的论据支持自己换工具 people have done great things and great work without these complex systems（比如过去在监狱中写书的作家） 更多相信自己的大脑（放轻松） 第二大脑不能代替自己真正的大脑
+许多个人知识管理成瘾者会记下遇到的所有信息，却不为实际思考留下任何空间
+在获取信息和思考问题时，好的想法与洞察力都会自然而然地出现（但不会在整理笔记系统时出现） 尝试基于某个项目做笔记 选择一个项目（书、产品、视频……），围绕项目做笔记，链接相关的概念、创意和想法 无意识过滤大量无关信息（会使笔记系统变得混乱）
+或多或少知道自己在寻找什么或需要记下什么，可以放心忽略其余部分，害怕错过信息的感觉消失
+由于自身在努力取得切实成果，拖延的时间变少 优先提升工作能力和产出 大多数笔记系统都有很好的搜索功能，不需构建过多结构就能精准找到特定信息
+先开始工作之后，再去考虑是否需要调整和优化工作流程以及笔记系统
+评判知识管理/笔记系统的标准：是否有助于提升工作效率（包括工作的数量和质量） 给自己设定一些可行的限制 “每天最多花30分钟在改进笔记系统上”
+建立获取信息和记录笔记的流程，这样就不会分心然后开始拖延 将获取信息和处理信息划分为两个独立的步骤 相关资料 Contents ]]></description><link>D-发布/✧ Stop Procrastinating With Note-Taking Apps_demo.html</link><guid isPermaLink="false">D-发布/✧ Stop Procrastinating With Note-Taking Apps_demo.md</guid><pubDate>Fri, 09 Jan 2026 02:06:45 GMT</pubDate></item><item><title><![CDATA[✧ Obsidian - The King of Learning Tools_demo]]></title><description><![CDATA[
+Obsidian = Knowledge Network/Zettelkasten/Second Brain 有关阅读、写作、思考最有价值的资产 试图将所有其他 Ob 系统的闪光点嵌入自己的 Ob，只会创造出一个<a data-tooltip-position="top" aria-label="https://baike.baidu.com/item/弗兰肯斯坦/6796014" rel="noopener nofollow" class="external-link is-unresolved" href="https://baike.baidu.com/item/%E5%BC%97%E5%85%B0%E8%82%AF%E6%96%AF%E5%9D%A6/6796014" target="_self">弗兰肯斯坦怪物</a>
+没有任何一个系统是完美的，重要的是快速进入写作流程
+《How to Take Smart Notes》 *Zettelkasten：a note taking system from bottom to up* Building Personal Writing System Great for Learning Keeps it Slow：多数情况下阅读和速度并不能完美结合 Memory Boost
+More Makes Sense Instant Feedback：如果很难用自己的语言表达出读过的内容，说明并没有理解，此时需要回看原文 “教学”可以帮助更好地吸收和掌握知识 Freedom to Connect：用文件夹管理笔记，容易让各个笔记相互孤立，阻止自己看到更大的图景 知识只有在相互的联系中才有意义
+Flexible/open to connection Stores and Mixes Ideas Obsidian 可以把所有笔记储存到一个位置，用“标签”和“超链接”来组织它们 线上笔记能够随用随取，方便查找
+文件夹系统会随着笔记的增加而变得越来越混乱 混合各种想法更有助于创造出新的观点 Faster, Easier Writing 大多数写作工作在做笔记的时候就已经完成了
+永久笔记可以重复利用，不受写作任务的局限 找不到之前的笔记或无法重复利用笔记，会造成写作工作的效率低下 How to get good？ Practice
+Feedback Idea
+Reminder
+To-do
+Research List：想要进一步继续研究的主题列表
+Writing Log：记录每天写作的字数 记录文献笔记锁定材料来源，可避免检索文献的重复劳动
+Source Material 的分类：Books，Articles，Papers，Podcasts，Videos，Other，Waiting-to-be-processed Notes
+文献笔记中重复出现的观点可作为永久笔记的主要观点 <br>Zettelkasten/Atomic Notes<a data-footref="1" href="#fn-1-03e33c6713369c3e" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a>
+永久笔记脱离上下文语境，必须保证每次看到时都能被迅速理解，方便与其他笔记进行链接 尽量用自己的话复述：迫使自己进行深度思考，否则容易陷入被动学习
+笔记最好做到原子化 keep notes short：less than 500 words or 1 page——keep things focused, concise and versatile
+<br>mini essay/blunt informative sentences/story<a data-footref="2" href="#fn-2-03e33c6713369c3e" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a> 可以联系自己的相关经验方便理解 tackle one idea at a time：拓展的部分写成新笔记，并使用标签和链接进行关联和查找
+format notes to easier reading：善用空格和换行 引用原文是传达思想和观点的有力方式
+通过快速切换功能创建新的永久笔记，可检查是否已经存在类似笔记
+标签的作用：保证系统的整洁性
+标签笔记的类型：Each tag is an empty note, not a "#" tag
+标签笔记的内容：This is just an empty note I use as a tag
+创建标签时思考一个问题：Will I ever use this tag again？ 每次创建标签时都要浏览相关笔记查看其标签，帮助自己回忆适合于添加到当前笔记的标签 制作标签的注意事项 avoid being too vague：看的时候不知道要讨论什么
+avoid being too specific：之后可能再也不会使用这个标签
+avoid using too many：容易造成笔记系统的混乱 Keep it below 4/5 most of the time keep tags related to your interests：tags should serve you and you alone（标签的个性化） rather than what other people will think is a common category（健身、社会学、数学……） 索引的作用：为笔记添加基本的逻辑层级结构，提供相关主题的切入点，形式类似于书籍目录
+索引与标签的关系：将带有足够多链接的标签笔记用合理的逻辑结构组织起来，可以转化为索引 我们希望节省所有精力用于写作，而不是创建笔记 Status：代表笔记的发展阶段，包括 baby/child/adult 安装太多插件会导致整个流程过于复杂，分散注意力
+相关资料 Contents <br>参见：《Effective Note - Taking to Remember More + Create New Ideas》（本博主的相关视频）<a href="#fnref-1-03e33c6713369c3e" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br>参见：《Mini Essays: The Ultimate Learning Tool》（本博主的相关视频）<a href="#fnref-2-03e33c6713369c3e" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+]]></description><link>D-发布/✧ Obsidian - The King of Learning Tools_demo.html</link><guid isPermaLink="false">D-发布/✧ Obsidian - The King of Learning Tools_demo.md</guid><pubDate>Fri, 09 Jan 2026 02:06:38 GMT</pubDate></item><item><title><![CDATA[✧ Markdown 语法文档_demo]]></title><description><![CDATA[ 在文本前添加 # 表示标题，# 必须在行首
+# 的数量代表了标题的级别，共支持 6 级标题
+Markdown 中凡是不成对的符号，后面都需要空格 不同的 Markdown 应用程序处理 # 和标题间空格的方式不一致，为了不影响兼容性，最好用一个空格在 # 和标题之间进行分隔 在 MN4 中五级和六级标题的大小差距不大
+在单独一行上使用三个或多个星号 (***)、破折号 (---) 或下划线 (___) ，并且不能包含其他内容
+为了不影响兼容性，最好在分隔线前后都添加空白行 粗体：在文本前后各添加两个星号，或使用快捷键 Cmd + B 斜体：在文本前后各添加一个星号，或使用快捷键 Cmd + I 粗体和斜体：在文本前后各添加三个星号或下划线 高亮：在文本前后各添加两个等号、使用快捷键 Cmd + H或使用&nbsp;&lt;mark&gt;&nbsp;标签
+&lt;mark&gt;高亮&lt;/mark&gt; 实下划线或虚下划线：使用&nbsp;&lt;u&gt;&nbsp;标签或&nbsp;&lt;span&gt;&nbsp;标签的&nbsp;style&nbsp;属性
+&lt;u&gt;实下划线&lt;/u&gt;
+&lt;span style="border-bottom:3px dashed blue"&gt;虚下划线&lt;/span&gt; 删除线：在文本前后各添加两个波浪线 ~ 使用&nbsp;&lt;font&gt;&nbsp;标签的&nbsp;color&nbsp;属性来修改文字颜色
+&lt;font color="red"&gt;红色&lt;/font&gt;
+&lt;font color="blue"&gt;蓝色&lt;/font&gt;
+&lt;font color="rgb(200, 100, 100)"&gt;rgb颜色值&lt;/font&gt;
+&lt;font color="#FF00BB"&gt;十六进制颜色&lt;/font&gt;
+&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=yellow&gt;背景（黄色）&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt; 修改字号的三种方式： &lt;font&gt;&nbsp;标签&nbsp;size&nbsp;属性
+&lt;small&gt;&nbsp;或&nbsp;&lt;big&gt;&nbsp;标签
+修改&nbsp;style&nbsp;样式 &lt;font size="1"&gt;1号字 最小&lt;/font&gt;
+&lt;font size="3"&gt;3号字 默认&lt;/font&gt;
+&lt;font size="7"&gt;7号字 最大&lt;/font&gt;
+&lt;small&gt;小号字体&lt;/small&gt;
+&lt;big&gt;大号字体&lt;/big&gt; 字号与颜色的综合使用
+&lt;font size="5" color="red"&gt;字号为5的红色文本&lt;/font&gt; 使用&nbsp;&lt;font&gt;&nbsp;标签的&nbsp;face&nbsp;属性来修改字体
+&lt;font face="HEI"&gt;黑体&lt;/font&gt;
+&lt;font face="KAI"&gt;楷体&lt;/font&gt;
+&lt;font face="GB18030 Bitmap"&gt;扩展字体&lt;/font&gt; 使用&nbsp;&lt;sup&gt;&nbsp;和 &lt;sub&gt; 标签来为字体添加上下标
+&lt;sup&gt;上标&lt;/sup&gt;
+&lt;sub&gt;下标&lt;/sub&gt; 使用 空白行 分隔文本来创建段落
+严格的 Markdown 格式要求各个段落之间必须空行，避免使用空格（Spaces）或制表符（Tabs）来缩进段落
+段落内部的多个空格和段落之间的多个空行，在阅读视图中会被合并显示为单一空格或空行
+要想显示多个空格或空行，可以在笔记中使用&nbsp;&amp;nbsp;（空格）或&nbsp;&lt;br&gt;（换行）
+在 MN4 中换行即可标记新段落，使用键盘输入时按 Opt + Enter 换行
+默认卡片编辑中的字体、字号等功能和 Markdown 输入模式不兼容，从前者转化为后者时，前者的编辑痕迹将消失，需要谨慎使用该功能 使用 &lt;center&gt;&nbsp;标签和&nbsp;&lt;p&gt;&nbsp;标签的&nbsp;left / right 属性实现行对齐
+&lt;center&gt;居中&lt;/center&gt;
+&lt;p align="left"&gt;左对齐&lt;/p&gt;
+&lt;p align="right"&gt;右对齐&lt;/p&gt; 需要注释的文本[^1] [^1]: 脚注内容 %% 脚注内容可以插入到文中的相应位置，阅读视图下仍然会被渲染到文末 %%
+需要注释的文本[^也可以直接在此处输入脚注内容]
+Tip <a data-tooltip-position="top" aria-label="✧ Obsidian 使用手册 > ^92d76d" data-href="✧ Obsidian 使用手册#^92d76d" href="1-原料仓库/1A-阅读笔记/✧ Obsidian 使用手册.html" class="internal-link" target="_self" rel="noopener nofollow">在 Ob 中可以使用快捷键来快速插入脚注</a>2
+可以通过在每行开头添加2个空格来编写跨越多行的脚注 在段落前添加一个&nbsp;&gt;&nbsp;符号 为段落间的空白行添加一个&nbsp;&gt;&nbsp;符号（通过 Shift 键实现） 第一段
+第二段 在要嵌套的段落前添加&nbsp;&gt;&gt;&nbsp;符号 第一层 第二层 第三层 块引用可以包含其他 Markdown 格式的元素 Revenue was off the chart.
+Profits were higher than ever. Everything is going according to plan.
+并非所有元素都能在块引用之内使用，需通过实验来确认哪些元素有效
+在每个列表项前添加破折号 (-) 并紧跟一个 空格
+使用 Tab 键缩进一个或多个列表项可创建嵌套列表，每个 Tab 表示一层 在每个列表项前添加数字和英文句点，并紧跟一个 空格
+源码中的数字与渲染后并非一一对应，因此数字不必按顺序排列，但第一个数字决定了列表第一项的序号 在无序列表的破折号 (-) 和 空格 之后，用带 空格 的中括号 ([ ]) 来声明复选框
+破折号与中括号、中括号与文本之间都需要空一格
+在括号中写入&nbsp;x 或其他任意字符都可实现选中效果 Java
+Python 可用&nbsp;Tab&nbsp;/&nbsp;Shift + Tab&nbsp;来缩进/取消缩进一个或多个已选择的列表项，以便快速组织列表
+段落、引用块、图片：要在保留列表连续性的同时添加另一种元素，需将该元素缩进四个空格或一个制表符
+代码块： 通常采用四个空格或一个制表符缩进（当它们被放在列表中时，采用八个空格或两个制表符缩进）
+<br><a data-tooltip-position="top" aria-label="^60e077" data-href="#^60e077" href="#^60e077" class="internal-link" target="_self" rel="noopener nofollow">围栏式代码块</a>只需整体缩进一个制表符 所嵌套的元素与前后的列表文本之间必须各空一行
+列表：有序列表和无序列表之间可以互相嵌套 链接名称放在中括号内，链接地址放在圆括号内 [链接名称](链接地址) 链接标题：当鼠标悬停在链接上时显示的文字
+链接标题可选，它与链接地址之间以空格分隔 [链接名称](链接地址 "链接标题") 如需强调链接，在链接语法前后增加星号
+要将链接表示为代码，在方括号中添加反引号
+不同 Markdown 应用程序处理 URL 中空格的方式不一样，为了不影响兼容性，最好用 %20 替代空格
+添加图片：在方括号中输入图片名称，并在括号前添加感叹号 (!)。图片链接放在圆括号内，其后可选择增加图片标题 ![图片名称](图片地址 "图片标题") 可以通过直接拖动图片到笔记的特定位置来插入图片，相应的图片会被自动添加到附件文件夹中
+给图片增加链接：将图片的 Markdown 置入方括号中，然后将链接添加在圆括号中 [![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn) 将单词或短语包裹在反引号 (`) 中 若要表示为代码的单词或短语中包含一个或多个反引号，则可以将其包裹在双反引号 (``) 中 在语法符号前加入反斜杠 (\) 进行转义，可将其渲染为普通文本进行展示 将代码的每一行缩进至少四个空格或一个制表符1 围栏式代码块（fenced code blocks）不用缩进 ```markdown
+此处是 Markdown 格式的围栏式代码块
+``` 代码块支持语法高亮功能，可在代码的第一行（开头的三个反引号后）声明语言来使用特定的语法高亮 相关资料 <br><a data-tooltip-position="top" aria-label="https://www.wolai.com/89rjeaKjQmD9m2kygMQeJE" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.wolai.com/89rjeaKjQmD9m2kygMQeJE" target="_self">MarginNote 4 用户手册</a> ]]></description><link>D-发布/✧ Markdown 语法文档_demo.html</link><guid isPermaLink="false">D-发布/✧ Markdown 语法文档_demo.md</guid><pubDate>Fri, 09 Jan 2026 02:06:08 GMT</pubDate></item></channel></rss>
